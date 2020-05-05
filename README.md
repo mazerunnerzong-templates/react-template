@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Quick Start
+
+1. Clone repo <br />
+   `git clone https://github.com/mazerunnerzong-templates/react-template.git`
+
+2. Install dependencies <br />
+   `npm install`
+
+3. Run app <br />
+   `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
